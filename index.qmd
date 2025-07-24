@@ -1,6 +1,6 @@
 ---
 title: "Haoyue Han"
-image: images/hanhaoyue_2025.jpg
+image: images/hanhaoyue_2025.png
 about:
   id: hero-heading
   template: trestles
