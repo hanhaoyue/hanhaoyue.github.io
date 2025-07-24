@@ -15,25 +15,7 @@ about:
       href: https://github.com/hanhaoyue
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
-    - icon: fingerprint
-      text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
+      href: https://scholar.google.com/citations?user=iviYn0UAAAAJ&hl=en
     - icon: 📝
       text: CV
       href: CV.pdf  
@@ -52,11 +34,9 @@ He is also the founder of the website <https://www.lianxh.cn>, one of the larges
 
 ## Background
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+- 2023 - Present: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
+- 2021-2023: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science
+- 2017-2021: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
+- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science
 
 :::
